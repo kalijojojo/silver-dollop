@@ -17,7 +17,7 @@ jobs:
           # Get current date in YYYYMMDD format
           CURRENT_DATE_STR=$(date +%Y%m%d)
           # Define your start date
-          START_DATE_STR="20250619"
+          START_DATE_STR="20250623"
 
           echo "Current date: $CURRENT_DATE_STR"
           echo "Start date for execution: $START_DATE_STR"
